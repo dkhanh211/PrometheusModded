@@ -26,7 +26,7 @@ To quickly obfuscate a script:
 ```batch
 lua ./cli.lua --preset Medium ./your_file.lua
 ```
-Btw You can create your own preset
+Btw You can create your own preset.
 For more advanced use cases see the [Documentation](https://levno-710.gitbook.io/prometheus/).
 ## Tests
 To perform the Prometheus Tests, just run
