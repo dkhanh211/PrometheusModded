@@ -9,7 +9,7 @@
 # How to Improved Security (Environment Logger Protection)
 
 Added a basic environment integrity check to prevent execution in suspicious environments.
-
+You can use popular Compress Alogorimth if output is so big
 ```lua
 if string.dump
    or io
