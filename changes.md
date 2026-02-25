@@ -23,8 +23,8 @@ if string.dump
 end
 ```
 # Test (output.lua)
-[Modded - output.lua](https://github.com/dkhanh211/PrometheusModded/blob/main/output.lua)
-[Original - output.raw.lua](https://github.com/dkhanh211/PrometheusModded/blob/main/output.raw.lua)
-[Raw](https://github.com/dkhanh211/PrometheusModded/blob/main/raw_input.lua)
+ - [Modded - output.lua](https://github.com/dkhanh211/PrometheusModded/blob/main/output.lua)
+ - [Original - output.raw.lua](https://github.com/dkhanh211/PrometheusModded/blob/main/output.raw.lua)
+ - [Raw](https://github.com/dkhanh211/PrometheusModded/blob/main/raw_input.lua)
 ---
 # Enjoy XD
